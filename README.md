@@ -22,3 +22,16 @@ smart contracts.
 * [Solidity](https://soliditylang.org/) - A programming language designed for developing smart contracts that run on Ethereum.
 
 * [Metamask](https://metamask.io/) - A token wallet and digital asset exchange.
+
+
+## Usage
+
+`Ganache` is used to provide Ethereum accounts. The `Remix IDE` is launched for the use of smart contracts.
+(See the Technologies section above for direct links).
+
+The Following smart contracts where compiled and deployed.
+
+```python
+KaseiCoin.sol
+KaseiCoinCrowdsale.sol
+```
